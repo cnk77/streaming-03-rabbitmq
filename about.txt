@@ -1,0 +1,44 @@
+
+
+==============================================================
+==============================================================
+
+ Welcome! 
+
+ It's 2023-01-31 at 08:49 PM
+
+ This file is running on:    nt Windows 10
+ 
+ The Python version is:      3.10.9
+ 
+ The Python interpreter is at: 
+ C:\Users\mizzo\OneDrive\Documents\MS Data Analysis\44-671\Mod3\streaming-03-rabbitmq\.conda\python.exe
+
+ The active environment should be either conda OR pip (one should be None):
+
+     Active conda env is: c:\Users\mizzo\OneDrive\Documents\MS Data Analysis\44-671\Mod3\streaming-03-rabbitmq\.conda
+     Active pip env is:   None
+ 
+ The path to the active virtual environment is:
+
+ C:\Users\mizzo\OneDrive\Documents\MS Data Analysis\44-671\Mod3\streaming-03-rabbitmq\.conda
+ 
+ The Current Working Directory (CWD) where this command was launched is:
+
+ C:\Users\mizzo\OneDrive\Documents\MS Data Analysis\44-671\Mod3\streaming-03-rabbitmq
+ 
+ The absolute path to the data directory is:
+
+ C:\Users\mizzo\OneDrive\Documents\MS Data Analysis\44-671\Mod3\streaming-03-rabbitmq\
+ 
+ The absolute path to this source directory is:
+
+ c:\Users\mizzo\OneDrive\Documents\MS Data Analysis\44-671\Mod3\streaming-03-rabbitmq
+ 
+ The absolute path to this file is:
+
+ c:\Users\mizzo\OneDrive\Documents\MS Data Analysis\44-671\Mod3\streaming-03-rabbitmq\about.py
+ 
+==============================================================
+==============================================================
+

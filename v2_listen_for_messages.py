@@ -1,8 +1,7 @@
 """
 
-Always customize this docstring. 
-
-Add your name, date, and a description of the program.
+KYLE HUDSON
+31 JAN 2023
 
 Listens for messages on the queue.
 This process runs continously. 
@@ -89,6 +88,6 @@ def main(hn: str = "localhost"):
 # without executing the code below.
 # If this is the program being run, then execute the code below
 if __name__ == "__main__":
-    main("localhostttt")
+    main("localhost")
   
      
